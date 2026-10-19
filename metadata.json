@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S. - Stark Industries AI Assistant",
+  "description": "Your personal J.A.R.V.I.S. AI assistant with authentic movie persona, British voice synthesis, multi-session memory, and Stark Industries HUD interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

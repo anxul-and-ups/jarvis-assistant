@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for a dedicated personal AI assistant chatbot application with multi-session chat history, ready-to-use template bots (General Companion, Coding Expert, Writing Coach, Study Tutor), customizable bot settings, and full-stack Gemini API server integration.",
+  "updatedAt": "2026-10-16T13:56:56.964677791Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
